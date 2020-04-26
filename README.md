@@ -1,1 +1,3 @@
-# MachineLearningAlg
+# 机器学习算法
+
+### ID3HW ： ID3算法
